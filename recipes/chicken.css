@@ -1,0 +1,27 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(180, 180, 229);
+}
+
+.header {
+    font-weight: bold;
+    font-size: 25px;
+    background-color: rgb(145, 140, 240);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image {
+    width: 300px;
+    height:auto;
+}
+
+.description,
+.ingredients,
+.steps {
+    font-weight:500;
+    font-size: 22px;
+}
+
+.steps-2 {
+    font-size: 15px;
+}

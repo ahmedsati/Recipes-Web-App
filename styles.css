@@ -1,0 +1,13 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(234, 231, 176);
+}
+
+.header {
+    font-weight: 500px;
+    font-size: 30px;
+}
+
+button {
+    background-color: rgb(11, 219, 32);
+}

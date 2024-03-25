@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(231, 172, 191);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header {
+    background-color: rgb(222, 101, 180);
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.images {
+    width: 300px;
+    height:auto
+}
+
+.description,
+.ingredients,
+.steps,
+.layer {
+    font-size: 20px;
+}
+
+.steps-2 {
+    font-size: 15px;
+}
+

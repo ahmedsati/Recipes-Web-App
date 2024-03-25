@@ -1,0 +1,24 @@
+* {
+    background-color: peachpuff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.description,
+.ingredients,
+.steps {
+    font-size: 25px;
+}
+
+.steps-2 {
+    font-size: 18px;
+}
+
+.image {
+    width: 400px;
+    height:auto;
+}
